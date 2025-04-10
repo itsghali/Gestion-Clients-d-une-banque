@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743523701 source:d:\ghali\projet\c\gestion client & compte banque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
